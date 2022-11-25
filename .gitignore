@@ -1,3 +1,6 @@
 node_modules
 public/img/*
 !public/img/.gitkeep
+dev-data/data
+dev-data/img
+.prettierrc
